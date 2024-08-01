@@ -1,0 +1,3 @@
+ i am git user
+
+my first git classhow is the class
