@@ -3,3 +3,8 @@
 my first git classhow is the class
 added files to repo
  basic git commands
+
+ topics in aws
+launch ec2
+permsissions
+
