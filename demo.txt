@@ -8,3 +8,7 @@ added files to repo
 launch ec2
 permsissions
 
+AMI
+EFS
+EBS
+S3- create bucket
