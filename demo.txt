@@ -12,3 +12,5 @@ AMI
 EFS
 EBS
 S3- create bucket
+
+launched s3 in new region
